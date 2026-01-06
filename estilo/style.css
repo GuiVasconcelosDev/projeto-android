@@ -41,7 +41,7 @@ header {
     background-color: var(--cor4);
     min-height: 150px;
     text-align: center;
-    padding: 40px;
+    padding: 30px;
 }
 
 header > h1 {
